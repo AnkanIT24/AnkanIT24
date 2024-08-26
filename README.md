@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnkanIT24
 - 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...C++
+- 🌱 I’m currently learning ...Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...Not Decided
 - 📫 How to reach me ...daSonu24@gmail.com
 
